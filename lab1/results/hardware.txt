@@ -1,0 +1,21 @@
+OS: macOS-26.6.2-arm64-arm-64bit
+Python (runner only): 3.11.9
+Logical processors (os.cpu_count): 12
+CPU: Apple M4 Pro
+Physical cores: 12
+Logical processors: 12
+Performance levels (P/E cores): hw.perflevel0.physicalcpu: 8
+hw.perflevel1.physicalcpu: 4
+RAM bytes: 25769803776
+Disk: Protocol:                  Apple Fabric
+   Solid State:               Yes
+macOS: ProductName:		macOS
+ProductVersion:		26.6.2
+BuildVersion:		25G83
+USB drives:
+
+hardware_concurrency (logical processors): 12
+compiler: clang 17.0.0 (clang-1700.6.4.2)
+C++ standard: 201703
+
+FILL IN BY HAND: USB drive model/capacity and its USB version (2.0 / 3.x), and the USB port version.
